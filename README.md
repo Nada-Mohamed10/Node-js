@@ -23,10 +23,10 @@ This project was created for learning purposes.
 project-folder/
 │
 ├── Controller/
-│ └── postsController.js
+│ │   └── postsController.js
 │
 ├── Router/
-│ └── posts.js
+│ │   └── posts.js
 │
 ├── posts.json
 ├── index.js
