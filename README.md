@@ -19,7 +19,7 @@ This project was created for learning purposes.
 - JSON file as a database
 
 ## 📂 Project Structure
-
+`
 project-folder/
 │
 ├── Controller/
@@ -32,7 +32,7 @@ project-folder/
 ├── index.js
 ├── package.json
 └── README.md
-
+`
 
 ## 🚀 Getting Started
 
