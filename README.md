@@ -42,4 +42,27 @@ project-folder/
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 npm install
-npm run start 
+npm run start
+```
+##🧪 API Testing with Postman
+You can use Postman to easily test the API endpoints and verify that your CRUD operations work as expected.
+
+📌 1. Launch Postman and create a new request
+📌 2. Choose the HTTP method (GET, POST, PUT, DELETE)
+📌 3. Enter the endpoint URL (e.g. http://localhost:3000/posts)
+📌 4. (For POST and PUT requests):
+Go to the Body tab
+
+Select raw
+Choose JSON from the dropdown
+Enter a JSON object like:
+json
+{
+  "title": "Sample Post",
+  "content": "This is the content of the sample post"
+}
+📌 5. Click Send to submit the request
+📌 6. Review the response in the bottom panel
+
+
+
